@@ -31,7 +31,6 @@ class ProductSerializer(serializers.ModelSerializer):
 
 class LessonSerializer(serializers.ModelSerializer):
     """Сериализатор модели Lesson"""
-    # product = ProductSerializer()
 
     class Meta:
         model = Lesson

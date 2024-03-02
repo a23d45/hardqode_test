@@ -25,6 +25,7 @@ source env/bin/activate
 ```
 **3. Установите зависимости:**
 ```
+cd hardqode_test
 pip install -r requirements.txt
 ```
 **4. Выполните миграции**

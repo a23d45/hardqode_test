@@ -5,7 +5,7 @@
 
 **1. Клонируйте репозиторий на свой компьютер:**
 ```
-git clone https://github.com/a23d45/drf-videohosting.git
+git clone https://github.com/a23d45/hardqode_test.git
 ```
 **2. Перейдите в директорию проекта**
 

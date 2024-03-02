@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ```
 **4. Выполните миграции**
 ```
-python manage.py makemigrations
-
+python manage.py makemigrations accounts
+python manage.py makemigrations learning_platform
 python manage.py migrate
 ```
 **5. Запустите локальный сервер**
